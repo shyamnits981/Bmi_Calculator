@@ -1,0 +1,13 @@
+.cointner{
+    height: 100%;
+    width: 30%;
+    border: 1px solid rgb(156, 105, 12); 
+    background-color: wheat; 
+    justify-content: center;
+    align-items:center;  
+}
+.btn{
+    background-color: blue;
+    color: white;
+    margin: 10px;
+}
